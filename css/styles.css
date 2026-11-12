@@ -81,7 +81,7 @@ body {
 .b1 {
     padding: 0.5rem;
     border-radius: 2rem;
-    background-color:#393be2;
+    background-color:#fdfdff;
     margin-top: 10px;
     width: 200px;
     height: 2.5rem;
@@ -112,3 +112,12 @@ body {
     color: #3b3b3b;
 }
 
+.google {
+    width: 20px;
+    align-items: center;
+}
+
+.x-box {
+    width: 20px;
+    align-items: center;
+}
